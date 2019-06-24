@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6569" started-at="2019-06-24T17:23:10Z" finished-at="2019-06-24T17:23:16Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6569" started-at="2019-06-24T17:23:10Z" finished-at="2019-06-24T17:23:16Z">
+      <class name="screen1.core">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:screen1.core@27c20538]" name="setUp" duration-ms="6550" started-at="2019-06-24T17:23:10Z" finished-at="2019-06-24T17:23:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- screen1.core -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
